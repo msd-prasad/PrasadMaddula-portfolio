@@ -36,6 +36,9 @@ Feel free to navigate the portfolio using the menu or sections listed above. Cli
 1. **Visit the Portfolio:** Access my live portfolio here (https://msd-prasad.github.io/PrasadMaddula-portfolio/).
 2. **Explore Sections:** Navigate through the different sections to learn more about me, my skills, projects, and recommendations.
 
+## Here's a Screenshot of the Portfolio
+![Portfolio Screenshot](html_finalprojimages/msd-prasad-github-io-PrasadMaddula-portfolio.png)
+
 Thank you for taking the time to explore my portfolio! If you have any questions or would like to get in touch, feel free to contact me at mr.maddula@gmail.com.
 
 Happy exploring!
